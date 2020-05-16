@@ -31,7 +31,7 @@ Then place the folder in the IDE you use and run the `src/Main/Main.java` file
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/guilhermecostam/CalcEletric/blob/master/LICENSE) page for details.
 
 ---
 

@@ -29,6 +29,27 @@ git clone https://github.com/guilhermecostam/CalcEletric.git
 
 Then place the folder in the IDE you use and run the `src/Main/Main.java` file
 
+## How to contribute
+Do you want to contribute to the project? Just follow these instructions:
+
+- Fork this repository;
+- Clone your repository;
+- Create a branch with your feature:
+`
+git checkout -b my-feature
+`;
+- Commit your changes:
+`
+git commit -m 'feat: My new feature'
+`;
+- Push to your branch:
+`
+git push origin my-feature
+`;
+- Come in Pull Requests from the original project and create a pull request with your commit;
+
+After the merge of your pull request is done, you can delete your branch.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/guilhermecostam/CalcEletric/blob/master/LICENSE) page for details.
